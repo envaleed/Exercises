@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item_sound.xml",
+        "source": "/home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/res/layout/list_item_sound.xml"
+    },
+    {
+        "merged": "/home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_beat_box.xml",
+        "source": "/home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/res/layout/fragment_beat_box.xml"
+    }
+]

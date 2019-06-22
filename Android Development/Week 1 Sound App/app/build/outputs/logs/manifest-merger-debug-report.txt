@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.databinding:adapters:3.4.1] /home/mark/.gradle/caches/transforms-2/files-2.1/f7d80e79289562de41b9b6ba6764cada/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.1] /home/mark/.gradle/caches/transforms-2/files-2.1/4058a5cda27e7edcf87167b775649b7b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/ccab059c846e462c9e34540fda2cf32d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mark/.gradle/caches/transforms-2/files-2.1/34c284c031720b78d8c77c309665e2c7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/51a8bb6f53efd0ac345fd4200b80509b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/f1da7569219ab833dde0801322feb2e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/7746146d0f7ed2b75d7f9029524ca517/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/510389686f0cb3e763f24086a1fc1afe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/71d2784485b4ce4f2b1be4bd88798e61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/c7aef3f8623fb76fa5eea054667486bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/dde441461fc742ef5be59da0c2946ea5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/4ebcee0aa366b801f1c398fbe60d33d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/3ca373191dc3307c53510604493d1f91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/42f817fdbc85be419f0fb4227faa37e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/55831f65cd6ebb8a786a6b20eef888c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/c733cdb61305471ab50ad93b5ebfe7e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/d838c856fe585854d69460018af37a0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/582faadf4d5572ad532b99ea7fba541b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/b189fc6da387990214b9da2862a656f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/cb93206e48db7eac0882e236faf328e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/980d13278f382d9a8634d65e020b5e97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/791c4e47cb310098954a87e4f105f665/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/5ecda6c6ee80a74888a15e7f209ce659/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/06b333a7995565390e74ae923d06cc81/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/2b002a33b89789ec714a2ab4acd548c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/8aa56e5a60d5d248972792cfbe832967/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/cbbc52cf356b8c4e466de46c1dc85297/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/9902627162773656e35b96e1e6979e26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/fcafb7cb6f9d9c8f41bca5437439e6de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/eed9d7ca898d194bcbd21e83f3973589/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/25a9b6715bc40040a9c8f12a4d5009e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/fd644de041d30625abd07fe6894ea367/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/ebfd4deaf5918beebd033c4f7502bef1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/206ec1bad93759a798b498d3445e7e86/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/f6161c202783f3d64b4d47b57cd8ba0c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:4:5-47
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.android.support:design:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/ccab059c846e462c9e34540fda2cf32d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/ccab059c846e462c9e34540fda2cf32d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mark/.gradle/caches/transforms-2/files-2.1/34c284c031720b78d8c77c309665e2c7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mark/.gradle/caches/transforms-2/files-2.1/34c284c031720b78d8c77c309665e2c7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/06b333a7995565390e74ae923d06cc81/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/06b333a7995565390e74ae923d06cc81/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/8aa56e5a60d5d248972792cfbe832967/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/8aa56e5a60d5d248972792cfbe832967/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/06b333a7995565390e74ae923d06cc81/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.bignerdranch.android.beatbox.BeatBoxActivity
+ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:13:9-23:20
+	android:screenOrientation
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:15:13-51
+	android:theme
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:14:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.4.1] /home/mark/.gradle/caches/transforms-2/files-2.1/f7d80e79289562de41b9b6ba6764cada/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.1] /home/mark/.gradle/caches/transforms-2/files-2.1/f7d80e79289562de41b9b6ba6764cada/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] /home/mark/.gradle/caches/transforms-2/files-2.1/4058a5cda27e7edcf87167b775649b7b/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] /home/mark/.gradle/caches/transforms-2/files-2.1/4058a5cda27e7edcf87167b775649b7b/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/ccab059c846e462c9e34540fda2cf32d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/ccab059c846e462c9e34540fda2cf32d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mark/.gradle/caches/transforms-2/files-2.1/34c284c031720b78d8c77c309665e2c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mark/.gradle/caches/transforms-2/files-2.1/34c284c031720b78d8c77c309665e2c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/51a8bb6f53efd0ac345fd4200b80509b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/51a8bb6f53efd0ac345fd4200b80509b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/f1da7569219ab833dde0801322feb2e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/f1da7569219ab833dde0801322feb2e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/7746146d0f7ed2b75d7f9029524ca517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/7746146d0f7ed2b75d7f9029524ca517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/510389686f0cb3e763f24086a1fc1afe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/510389686f0cb3e763f24086a1fc1afe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/71d2784485b4ce4f2b1be4bd88798e61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/71d2784485b4ce4f2b1be4bd88798e61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/c7aef3f8623fb76fa5eea054667486bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/c7aef3f8623fb76fa5eea054667486bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/dde441461fc742ef5be59da0c2946ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/dde441461fc742ef5be59da0c2946ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/4ebcee0aa366b801f1c398fbe60d33d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/4ebcee0aa366b801f1c398fbe60d33d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/3ca373191dc3307c53510604493d1f91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/3ca373191dc3307c53510604493d1f91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/42f817fdbc85be419f0fb4227faa37e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/42f817fdbc85be419f0fb4227faa37e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/55831f65cd6ebb8a786a6b20eef888c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/55831f65cd6ebb8a786a6b20eef888c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/c733cdb61305471ab50ad93b5ebfe7e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/c733cdb61305471ab50ad93b5ebfe7e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/d838c856fe585854d69460018af37a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/d838c856fe585854d69460018af37a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/582faadf4d5572ad532b99ea7fba541b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/582faadf4d5572ad532b99ea7fba541b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/b189fc6da387990214b9da2862a656f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/b189fc6da387990214b9da2862a656f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/cb93206e48db7eac0882e236faf328e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/cb93206e48db7eac0882e236faf328e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/980d13278f382d9a8634d65e020b5e97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/980d13278f382d9a8634d65e020b5e97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/791c4e47cb310098954a87e4f105f665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/791c4e47cb310098954a87e4f105f665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/5ecda6c6ee80a74888a15e7f209ce659/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/5ecda6c6ee80a74888a15e7f209ce659/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/06b333a7995565390e74ae923d06cc81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/06b333a7995565390e74ae923d06cc81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/2b002a33b89789ec714a2ab4acd548c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/2b002a33b89789ec714a2ab4acd548c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/8aa56e5a60d5d248972792cfbe832967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/8aa56e5a60d5d248972792cfbe832967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/cbbc52cf356b8c4e466de46c1dc85297/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/cbbc52cf356b8c4e466de46c1dc85297/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/9902627162773656e35b96e1e6979e26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/9902627162773656e35b96e1e6979e26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/fcafb7cb6f9d9c8f41bca5437439e6de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/fcafb7cb6f9d9c8f41bca5437439e6de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/eed9d7ca898d194bcbd21e83f3973589/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/eed9d7ca898d194bcbd21e83f3973589/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/25a9b6715bc40040a9c8f12a4d5009e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/mark/.gradle/caches/transforms-2/files-2.1/25a9b6715bc40040a9c8f12a4d5009e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/fd644de041d30625abd07fe6894ea367/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/fd644de041d30625abd07fe6894ea367/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/ebfd4deaf5918beebd033c4f7502bef1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/ebfd4deaf5918beebd033c4f7502bef1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/206ec1bad93759a798b498d3445e7e86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/206ec1bad93759a798b498d3445e7e86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/f6161c202783f3d64b4d47b57cd8ba0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/mark/.gradle/caches/transforms-2/files-2.1/f6161c202783f3d64b4d47b57cd8ba0c/AndroidManifest.xml:20:5-44
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+		ADDED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/src/main/AndroidManifest.xml

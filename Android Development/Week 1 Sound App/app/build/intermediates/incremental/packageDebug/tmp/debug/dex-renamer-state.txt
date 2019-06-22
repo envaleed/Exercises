@@ -1,0 +1,4 @@
+#Sat Jun 22 18:01:09 CST 2019
+base.0=/home/mark/yanxi/Android Application Development/Week 1/20190306_Sound/20190306_Sound/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
