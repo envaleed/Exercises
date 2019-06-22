@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/orange</item>
+        <item name="colorAccent">@color/yellow</item>
+
+        <item name="android:windowBackground">@color/pink</item>
+        <item name="buttonStyle">@style/BeatBoxButton</item>
+
+        <item name="sound_item_bckgrnd">@color/white</item>
+        <item name="sound_item_txt_color">@color/black</item>
+
+    </style>
+
+    <style name="BeatBoxButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="CustomLightAppTheme_1.AppCompat.NoActionBar" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/purple</item>
+        <item name="colorAccent">@color/green</item>
+        <item name="sound_item_bckgrnd">@color/brown</item>
+        <item name="sound_item_txt_color">@color/white</item>
+
+        <item name="android:windowBackground">@color/black</item>
+        <item name="buttonStyle">@style/BeatBoxButton</item>
+    </style>
+</resources>
